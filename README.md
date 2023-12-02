@@ -48,11 +48,7 @@
 
 ### 💅 UI Frameworks/Tools
 
-[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://itsrakesh.com)
-[![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)](https://itsrakesh.com)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://itsrakesh.com)
-[![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://itsrakesh.com)
-[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://itsrakesh.com)
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/ArturJesus22)
 
 ### 🗃️ Databases
 
@@ -78,5 +74,4 @@
 
 ---
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArturJesus22.RakeshPotnuru)](https://github.com/ArturJesus22)
 
