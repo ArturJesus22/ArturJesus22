@@ -74,10 +74,9 @@
 
 ### 💻 Workspace
 
-[![Linux](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://itsrakesh.com)
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://itsrakesh.com)
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ArturJesus22)
 
 ---
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)](https://itsrakesh.com)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArturJesus22.RakeshPotnuru)](https://github.com/ArturJesus22)
 
