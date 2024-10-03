@@ -16,7 +16,7 @@
 
 ---
 
-### 📊 Stats
+### 📊 Stats:
 
 <a href="https://github.com/ArturJesus22">
 <img src="https://github-readme-stats.vercel.app/api?username=ArturJesus22&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" >
