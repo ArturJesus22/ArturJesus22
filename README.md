@@ -35,15 +35,11 @@
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]
-[![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
 
 ### 🧩 Frameworks/Libraries
 
-[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
-[![nextjs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)]
-[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]
-[![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]
+[![ENTITY FRAMEWORK]([https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://miro.medium.com/v2/resize:fit:754/1*Rh3mm-6UIdRZONW7skrh8g.png))]
+[![YII2 FRAMEWORK]([https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1Gvp7X8w9t_cLL-n19Z8YXHtEGGrnfj3hg&s))]
 [![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]
 
 ### 💅 UI Frameworks/Tools
