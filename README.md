@@ -8,7 +8,7 @@
 - 🔭 Full Stack Developer focused on scalable web solutions
 - 🌱 Currently deepening knowledge in Yii2 Framework and RESTful APIs
 - 💡 Experienced in both back-end and front-end development
-- 📫 Contact: **arturjesus324@gmail.com**
+- 📫 Contact: **arturjesusdev@gmail.com**
 
 ---
 
